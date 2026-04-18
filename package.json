@@ -1,0 +1,25 @@
+{
+  "name": "football-league-storytelling-static",
+  "version": "0.0.1",
+  "description": "Static GitHub Pages archive for football league season narratives.",
+  "private": true,
+  "keywords": [
+    ""
+  ],
+  "license": "",
+  "author": "",
+  "scripts": {
+    "generate:data": "node scripts/generate-data.js",
+    "test": "node scripts/generate-data.js",
+    "start": "webpack serve --open --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.prod.js"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4",
+    "webpack-merge": "^5.10.0"
+  }
+}

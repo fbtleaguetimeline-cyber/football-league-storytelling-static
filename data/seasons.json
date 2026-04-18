@@ -1,0 +1,1136 @@
+{
+  "leagues": [
+    {
+      "slug": "epl",
+      "name": "English Football League / Premier League",
+      "count": 125
+    }
+  ],
+  "seasons": [
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1888-1889",
+      "title": "1888-1889 Season",
+      "fileName": "1888-1889-football-league-narrative.txt",
+      "path": "league/epl/1888-1889-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1888-1889 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1889-1890",
+      "title": "1889-1890 Season",
+      "fileName": "1889-1890-football-league-narrative.txt",
+      "path": "league/epl/1889-1890-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1889-1890 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1890-1891",
+      "title": "1890-1891 Season",
+      "fileName": "1890-1891-football-league-narrative.txt",
+      "path": "league/epl/1890-1891-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1890-1891 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1891-1892",
+      "title": "1891-1892 Season",
+      "fileName": "1891-1892-football-league-narrative.txt",
+      "path": "league/epl/1891-1892-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1891-1892 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1892-1893",
+      "title": "1892-1893 Season",
+      "fileName": "1892-1893-football-league-narrative.txt",
+      "path": "league/epl/1892-1893-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1892-1893 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1893-1894",
+      "title": "1893-1894 Season",
+      "fileName": "1893-1894-football-league-narrative.txt",
+      "path": "league/epl/1893-1894-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1893-1894 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1894-1895",
+      "title": "1894-1895 Season",
+      "fileName": "1894-1895-football-league-narrative.txt",
+      "path": "league/epl/1894-1895-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1894-1895 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1895-1896",
+      "title": "1895-1896 Season",
+      "fileName": "1895-1896-football-league-narrative.txt",
+      "path": "league/epl/1895-1896-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1895-1896 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1896-1897",
+      "title": "1896-1897 Season",
+      "fileName": "1896-1897-football-league-narrative.txt",
+      "path": "league/epl/1896-1897-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1896-1897 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1897-1898",
+      "title": "1897-1898 Season",
+      "fileName": "1897-1898-football-league-narrative.txt",
+      "path": "league/epl/1897-1898-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1897-1898 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1898-1899",
+      "title": "1898-1899 Season",
+      "fileName": "1898-1899-football-league-narrative.txt",
+      "path": "league/epl/1898-1899-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1898-1899 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1899-1900",
+      "title": "1899-1900 Season",
+      "fileName": "1899-1900-football-league-narrative.txt",
+      "path": "league/epl/1899-1900-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1899-1900 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1900-1901",
+      "title": "1900-1901 Season",
+      "fileName": "1900-1901-football-league-narrative.txt",
+      "path": "league/epl/1900-1901-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1900-1901 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1901-1902",
+      "title": "1901-1902 Season",
+      "fileName": "1901-1902-football-league-narrative.txt",
+      "path": "league/epl/1901-1902-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1901-1902 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1902-1903",
+      "title": "1902-1903 Season",
+      "fileName": "1902-1903-football-league-narrative.txt",
+      "path": "league/epl/1902-1903-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1902-1903 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1903-1904",
+      "title": "1903-1904 Season",
+      "fileName": "1903-1904-football-league-narrative.txt",
+      "path": "league/epl/1903-1904-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1903-1904 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1904-1905",
+      "title": "1904-1905 Season",
+      "fileName": "1904-1905-football-league-narrative.txt",
+      "path": "league/epl/1904-1905-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1904-1905 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1905-1906",
+      "title": "1905-1906 Season",
+      "fileName": "1905-1906-football-league-narrative.txt",
+      "path": "league/epl/1905-1906-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1905-1906 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1906-1907",
+      "title": "1906-1907 Season",
+      "fileName": "1906-1907-football-league-narrative.txt",
+      "path": "league/epl/1906-1907-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1906-1907 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1907-1908",
+      "title": "1907-1908 Season",
+      "fileName": "1907-1908-football-league-narrative.txt",
+      "path": "league/epl/1907-1908-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1907-1908 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1908-1909",
+      "title": "1908-1909 Season",
+      "fileName": "1908-1909-football-league-narrative.txt",
+      "path": "league/epl/1908-1909-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1908-1909 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1909-1910",
+      "title": "1909-1910 Season",
+      "fileName": "1909-1910-football-league-narrative.txt",
+      "path": "league/epl/1909-1910-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1909-1910 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1910-1911",
+      "title": "1910-1911 Season",
+      "fileName": "1910-1911-football-league-narrative.txt",
+      "path": "league/epl/1910-1911-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1910-1911 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1911-1912",
+      "title": "1911-1912 Season",
+      "fileName": "1911-1912-football-league-narrative.txt",
+      "path": "league/epl/1911-1912-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1911-1912 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1912-1913",
+      "title": "1912-1913 Season",
+      "fileName": "1912-1913-football-league-narrative.txt",
+      "path": "league/epl/1912-1913-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1912-1913 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1913-1914",
+      "title": "1913-1914 Season",
+      "fileName": "1913-1914-football-league-narrative.txt",
+      "path": "league/epl/1913-1914-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1913-1914 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1914-1915",
+      "title": "1914-1915 Season",
+      "fileName": "1914-1915-football-league-narrative.txt",
+      "path": "league/epl/1914-1915-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1914-1915 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1919-1920",
+      "title": "1919-1920 Season",
+      "fileName": "1919-1920-football-league-narrative.txt",
+      "path": "league/epl/1919-1920-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1919-1920 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1920-1921",
+      "title": "1920-1921 Season",
+      "fileName": "1920-1921-football-league-narrative.txt",
+      "path": "league/epl/1920-1921-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1920-1921 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1921-1922",
+      "title": "1921-1922 Season",
+      "fileName": "1921-1922-football-league-narrative.txt",
+      "path": "league/epl/1921-1922-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1921-1922 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1922-1923",
+      "title": "1922-1923 Season",
+      "fileName": "1922-1923-football-league-narrative.txt",
+      "path": "league/epl/1922-1923-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1922-1923 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1923-1924",
+      "title": "1923-1924 Season",
+      "fileName": "1923-1924-football-league-narrative.txt",
+      "path": "league/epl/1923-1924-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1923-1924 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1924-1925",
+      "title": "1924-1925 Season",
+      "fileName": "1924-1925-football-league-narrative.txt",
+      "path": "league/epl/1924-1925-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1924-1925 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1925-1926",
+      "title": "1925-1926 Season",
+      "fileName": "1925-1926-football-league-narrative.txt",
+      "path": "league/epl/1925-1926-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1925-1926 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1926-1927",
+      "title": "1926-1927 Season",
+      "fileName": "1926-1927-football-league-narrative.txt",
+      "path": "league/epl/1926-1927-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1926-1927 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1927-1928",
+      "title": "1927-1928 Season",
+      "fileName": "1927-1928-football-league-narrative.txt",
+      "path": "league/epl/1927-1928-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1927-1928 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1928-1929",
+      "title": "1928-1929 Season",
+      "fileName": "1928-1929-football-league-narrative.txt",
+      "path": "league/epl/1928-1929-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1928-1929 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1929-1930",
+      "title": "1929-1930 Season",
+      "fileName": "1929-1930-football-league-narrative.txt",
+      "path": "league/epl/1929-1930-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1929-1930 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1930-1931",
+      "title": "1930-1931 Season",
+      "fileName": "1930-1931-football-league-narrative.txt",
+      "path": "league/epl/1930-1931-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1930-1931 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1931-1932",
+      "title": "1931-1932 Season",
+      "fileName": "1931-1932-football-league-narrative.txt",
+      "path": "league/epl/1931-1932-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1931-1932 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1932-1933",
+      "title": "1932-1933 Season",
+      "fileName": "1932-1933-football-league-narrative.txt",
+      "path": "league/epl/1932-1933-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1932-1933 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1933-1934",
+      "title": "1933-1934 Season",
+      "fileName": "1933-1934-football-league-narrative.txt",
+      "path": "league/epl/1933-1934-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1933-1934 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1934-1935",
+      "title": "1934-1935 Season",
+      "fileName": "1934-1935-football-league-narrative.txt",
+      "path": "league/epl/1934-1935-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1934-1935 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1935-1936",
+      "title": "1935-1936 Season",
+      "fileName": "1935-1936-football-league-narrative.txt",
+      "path": "league/epl/1935-1936-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1935-1936 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1936-1937",
+      "title": "1936-1937 Season",
+      "fileName": "1936-1937-football-league-narrative.txt",
+      "path": "league/epl/1936-1937-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1936-1937 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1937-1938",
+      "title": "1937-1938 Season",
+      "fileName": "1937-1938-football-league-narrative.txt",
+      "path": "league/epl/1937-1938-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1937-1938 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1938-1939",
+      "title": "1938-1939 Season",
+      "fileName": "1938-1939-football-league-narrative.txt",
+      "path": "league/epl/1938-1939-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1938-1939 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1946-1947",
+      "title": "1946-1947 Season",
+      "fileName": "1946-1947-football-league-narrative.txt",
+      "path": "league/epl/1946-1947-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1946-1947 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1947-1948",
+      "title": "1947-1948 Season",
+      "fileName": "1947-1948-football-league-narrative.txt",
+      "path": "league/epl/1947-1948-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1947-1948 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1948-1949",
+      "title": "1948-1949 Season",
+      "fileName": "1948-1949-football-league-narrative.txt",
+      "path": "league/epl/1948-1949-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1948-1949 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1949-1950",
+      "title": "1949-1950 Season",
+      "fileName": "1949-1950-football-league-narrative.txt",
+      "path": "league/epl/1949-1950-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1949-1950 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1950-1951",
+      "title": "1950-1951 Season",
+      "fileName": "1950-1951-football-league-narrative.txt",
+      "path": "league/epl/1950-1951-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1950-1951 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1951-1952",
+      "title": "1951-1952 Season",
+      "fileName": "1951-1952-football-league-narrative.txt",
+      "path": "league/epl/1951-1952-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1951-1952 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1952-1953",
+      "title": "1952-1953 Season",
+      "fileName": "1952-1953-football-league-narrative.txt",
+      "path": "league/epl/1952-1953-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1952-1953 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1953-1954",
+      "title": "1953-1954 Season",
+      "fileName": "1953-1954-football-league-narrative.txt",
+      "path": "league/epl/1953-1954-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1953-1954 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1954-1955",
+      "title": "1954-1955 Season",
+      "fileName": "1954-1955-football-league-narrative.txt",
+      "path": "league/epl/1954-1955-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1954-1955 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1955-1956",
+      "title": "1955-1956 Season",
+      "fileName": "1955-1956-football-league-narrative.txt",
+      "path": "league/epl/1955-1956-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1955-1956 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1956-1957",
+      "title": "1956-1957 Season",
+      "fileName": "1956-1957-football-league-narrative.txt",
+      "path": "league/epl/1956-1957-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1956-1957 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1957-1958",
+      "title": "1957-1958 Season",
+      "fileName": "1957-1958-football-league-narrative.txt",
+      "path": "league/epl/1957-1958-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1957-1958 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1958-1959",
+      "title": "1958-1959 Season",
+      "fileName": "1958-1959-football-league-narrative.txt",
+      "path": "league/epl/1958-1959-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1958-1959 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1959-1960",
+      "title": "1959-1960 Season",
+      "fileName": "1959-1960-football-league-narrative.txt",
+      "path": "league/epl/1959-1960-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1959-1960 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1960-1961",
+      "title": "1960-1961 Season",
+      "fileName": "1960-1961-football-league-narrative.txt",
+      "path": "league/epl/1960-1961-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1960-1961 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1961-1962",
+      "title": "1961-1962 Season",
+      "fileName": "1961-1962-football-league-narrative.txt",
+      "path": "league/epl/1961-1962-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1961-1962 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1962-1963",
+      "title": "1962-1963 Season",
+      "fileName": "1962-1963-football-league-narrative.txt",
+      "path": "league/epl/1962-1963-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1962-1963 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1963-1964",
+      "title": "1963-1964 Season",
+      "fileName": "1963-1964-football-league-narrative.txt",
+      "path": "league/epl/1963-1964-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1963-1964 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1964-1965",
+      "title": "1964-1965 Season",
+      "fileName": "1964-1965-football-league-narrative.txt",
+      "path": "league/epl/1964-1965-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1964-1965 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1965-1966",
+      "title": "1965-1966 Season",
+      "fileName": "1965-1966-football-league-narrative.txt",
+      "path": "league/epl/1965-1966-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1965-1966 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1966-1967",
+      "title": "1966-1967 Season",
+      "fileName": "1966-1967-football-league-narrative.txt",
+      "path": "league/epl/1966-1967-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1966-1967 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1967-1968",
+      "title": "1967-1968 Season",
+      "fileName": "1967-1968-football-league-narrative.txt",
+      "path": "league/epl/1967-1968-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1967-1968 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1968-1969",
+      "title": "1968-1969 Season",
+      "fileName": "1968-1969-football-league-narrative.txt",
+      "path": "league/epl/1968-1969-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1968-1969 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1969-1970",
+      "title": "1969-1970 Season",
+      "fileName": "1969-1970-football-league-narrative.txt",
+      "path": "league/epl/1969-1970-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1969-1970 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1970-1971",
+      "title": "1970-1971 Season",
+      "fileName": "1970-1971-football-league-narrative.txt",
+      "path": "league/epl/1970-1971-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1970-1971 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1971-1972",
+      "title": "1971-1972 Season",
+      "fileName": "1971-1972-football-league-narrative.txt",
+      "path": "league/epl/1971-1972-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1971-1972 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1972-1973",
+      "title": "1972-1973 Season",
+      "fileName": "1972-1973-football-league-narrative.txt",
+      "path": "league/epl/1972-1973-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1972-1973 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1973-1974",
+      "title": "1973-1974 Season",
+      "fileName": "1973-1974-football-league-narrative.txt",
+      "path": "league/epl/1973-1974-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1973-1974 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1974-1975",
+      "title": "1974-1975 Season",
+      "fileName": "1974-1975-football-league-narrative.txt",
+      "path": "league/epl/1974-1975-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1974-1975 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1975-1976",
+      "title": "1975-1976 Season",
+      "fileName": "1975-1976-football-league-narrative.txt",
+      "path": "league/epl/1975-1976-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1975-1976 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1976-1977",
+      "title": "1976-1977 Season",
+      "fileName": "1976-1977-football-league-narrative.txt",
+      "path": "league/epl/1976-1977-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1976-1977 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1977-1978",
+      "title": "1977-1978 Season",
+      "fileName": "1977-1978-football-league-narrative.txt",
+      "path": "league/epl/1977-1978-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1977-1978 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1978-1979",
+      "title": "1978-1979 Season",
+      "fileName": "1978-1979-football-league-narrative.txt",
+      "path": "league/epl/1978-1979-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1978-1979 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1979-1980",
+      "title": "1979-1980 Season",
+      "fileName": "1979-1980-football-league-narrative.txt",
+      "path": "league/epl/1979-1980-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1979-1980 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1980-1981",
+      "title": "1980-1981 Season",
+      "fileName": "1980-1981-football-league-narrative.txt",
+      "path": "league/epl/1980-1981-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1980-1981 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1981-1982",
+      "title": "1981-1982 Season",
+      "fileName": "1981-1982-football-league-narrative.txt",
+      "path": "league/epl/1981-1982-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1981-1982 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1982-1983",
+      "title": "1982-1983 Season",
+      "fileName": "1982-1983-football-league-narrative.txt",
+      "path": "league/epl/1982-1983-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1982-1983 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1983-1984",
+      "title": "1983-1984 Season",
+      "fileName": "1983-1984-football-league-narrative.txt",
+      "path": "league/epl/1983-1984-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1983-1984 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1984-1985",
+      "title": "1984-1985 Season",
+      "fileName": "1984-1985-football-league-narrative.txt",
+      "path": "league/epl/1984-1985-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1984-1985 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1985-1986",
+      "title": "1985-1986 Season",
+      "fileName": "1985-1986-football-league-narrative.txt",
+      "path": "league/epl/1985-1986-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1985-1986 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1986-1987",
+      "title": "1986-1987 Season",
+      "fileName": "1986-1987-football-league-narrative.txt",
+      "path": "league/epl/1986-1987-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1986-1987 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1988-1989",
+      "title": "1988-1989 Season",
+      "fileName": "1988-1989-football-league-narrative.txt",
+      "path": "league/epl/1988-1989-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1988-1989 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1989-1990",
+      "title": "1989-1990 Season",
+      "fileName": "1989-1990-football-league-narrative.txt",
+      "path": "league/epl/1989-1990-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1989-1990 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1990-1991",
+      "title": "1990-1991 Season",
+      "fileName": "1990-1991-football-league-narrative.txt",
+      "path": "league/epl/1990-1991-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1990-1991 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1991-1992",
+      "title": "1991-1992 Season",
+      "fileName": "1991-1992-football-league-narrative.txt",
+      "path": "league/epl/1991-1992-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1991-1992 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1992-1993",
+      "title": "1992-1993 Season",
+      "fileName": "1992-1993-football-league-narrative.txt",
+      "path": "league/epl/1992-1993-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1992-1993 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1993-1994",
+      "title": "1993-1994 Season",
+      "fileName": "1993-1994-football-league-narrative.txt",
+      "path": "league/epl/1993-1994-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1993-1994 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1994-1995",
+      "title": "1994-1995 Season",
+      "fileName": "1994-1995-football-league-narrative.txt",
+      "path": "league/epl/1994-1995-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1994-1995 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1995-1996",
+      "title": "1995-1996 Season",
+      "fileName": "1995-1996-football-league-narrative.txt",
+      "path": "league/epl/1995-1996-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1995-1996 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1996-1997",
+      "title": "1996-1997 Season",
+      "fileName": "1996-1997-football-league-narrative.txt",
+      "path": "league/epl/1996-1997-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1996-1997 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1997-1998",
+      "title": "1997-1998 Season",
+      "fileName": "1997-1998-football-league-narrative.txt",
+      "path": "league/epl/1997-1998-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1997-1998 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1998-1999",
+      "title": "1998-1999 Season",
+      "fileName": "1998-1999-football-league-narrative.txt",
+      "path": "league/epl/1998-1999-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1998-1999 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "1999-2000",
+      "title": "1999-2000 Season",
+      "fileName": "1999-2000-football-league-narrative.txt",
+      "path": "league/epl/1999-2000-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 1999-2000 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2000-2001",
+      "title": "2000-2001 Season",
+      "fileName": "2000-2001-football-league-narrative.txt",
+      "path": "league/epl/2000-2001-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2000-2001 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2001-2002",
+      "title": "2001-2002 Season",
+      "fileName": "2001-2002-football-league-narrative.txt",
+      "path": "league/epl/2001-2002-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2001-2002 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2002-2003",
+      "title": "2002-2003 Season",
+      "fileName": "2002-2003-football-league-narrative.txt",
+      "path": "league/epl/2002-2003-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2002-2003 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2003-2004",
+      "title": "2003-2004 Season",
+      "fileName": "2003-2004-football-league-narrative.txt",
+      "path": "league/epl/2003-2004-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2003-2004 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2004-2005",
+      "title": "2004-2005 Season",
+      "fileName": "2004-2005-football-league-narrative.txt",
+      "path": "league/epl/2004-2005-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2004-2005 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2005-2006",
+      "title": "2005-2006 Season",
+      "fileName": "2005-2006-football-league-narrative.txt",
+      "path": "league/epl/2005-2006-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2005-2006 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2006-2007",
+      "title": "2006-2007 Season",
+      "fileName": "2006-2007-football-league-narrative.txt",
+      "path": "league/epl/2006-2007-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2006-2007 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2007-2008",
+      "title": "2007-2008 Season",
+      "fileName": "2007-2008-football-league-narrative.txt",
+      "path": "league/epl/2007-2008-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2007-2008 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2008-2009",
+      "title": "2008-2009 Season",
+      "fileName": "2008-2009-football-league-narrative.txt",
+      "path": "league/epl/2008-2009-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2008-2009 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2009-2010",
+      "title": "2009-2010 Season",
+      "fileName": "2009-2010-football-league-narrative.txt",
+      "path": "league/epl/2009-2010-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2009-2010 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2010-2011",
+      "title": "2010-2011 Season",
+      "fileName": "2010-2011-football-league-narrative.txt",
+      "path": "league/epl/2010-2011-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2010-2011 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2011-2012",
+      "title": "2011-2012 Season",
+      "fileName": "2011-2012-football-league-narrative.txt",
+      "path": "league/epl/2011-2012-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2011-2012 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2012-2013",
+      "title": "2012-2013 Season",
+      "fileName": "2012-2013-football-league-narrative.txt",
+      "path": "league/epl/2012-2013-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2012-2013 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2013-2014",
+      "title": "2013-2014 Season",
+      "fileName": "2013-2014-football-league-narrative.txt",
+      "path": "league/epl/2013-2014-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2013-2014 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2014-2015",
+      "title": "2014-2015 Season",
+      "fileName": "2014-2015-football-league-narrative.txt",
+      "path": "league/epl/2014-2015-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2014-2015 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2015-2016",
+      "title": "2015-2016 Season",
+      "fileName": "2015-2016-football-league-narrative.txt",
+      "path": "league/epl/2015-2016-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2015-2016 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2016-2017",
+      "title": "2016-2017 Season",
+      "fileName": "2016-2017-football-league-narrative.txt",
+      "path": "league/epl/2016-2017-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2016-2017 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2017-2018",
+      "title": "2017-2018 Season",
+      "fileName": "2017-2018-football-league-narrative.txt",
+      "path": "league/epl/2017-2018-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2017-2018 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2018-2019",
+      "title": "2018-2019 Season",
+      "fileName": "2018-2019-football-league-narrative.txt",
+      "path": "league/epl/2018-2019-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2018-2019 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2019-2020",
+      "title": "2019-2020 Season",
+      "fileName": "2019-2020-football-league-narrative.txt",
+      "path": "league/epl/2019-2020-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2019-2020 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2020-2021",
+      "title": "2020-2021 Season",
+      "fileName": "2020-2021-football-league-narrative.txt",
+      "path": "league/epl/2020-2021-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2020-2021 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2021-2022",
+      "title": "2021-2022 Season",
+      "fileName": "2021-2022-football-league-narrative.txt",
+      "path": "league/epl/2021-2022-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2021-2022 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2022-2023",
+      "title": "2022-2023 Season",
+      "fileName": "2022-2023-football-league-narrative.txt",
+      "path": "league/epl/2022-2023-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2022-2023 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2023-2024",
+      "title": "2023-2024 Season",
+      "fileName": "2023-2024-football-league-narrative.txt",
+      "path": "league/epl/2023-2024-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2023-2024 season narrative."
+    },
+    {
+      "leagueSlug": "epl",
+      "leagueName": "English Football League / Premier League",
+      "season": "2024-2025",
+      "title": "2024-2025 Season",
+      "fileName": "2024-2025-football-league-narrative.txt",
+      "path": "league/epl/2024-2025-football-league-narrative.txt",
+      "description": "English Football League / Premier League, 2024-2025 season narrative."
+    }
+  ]
+}
